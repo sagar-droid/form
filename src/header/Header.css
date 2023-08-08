@@ -1,0 +1,15 @@
+.header{
+    font-family: Space Grotesk;
+    max-width: 82px;
+    max-height: 24px;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 100% */
+background: linear-gradient(133deg, #496F74 0%, #6E9195 37.08%, #2D4F61 83.25%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+padding-left: 64px;
+padding-top: 40px;
+}
